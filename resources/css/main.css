@@ -83,7 +83,7 @@ ul {
     gap: 1em;
 }
 
-.ultimate-header-text, .savage-header-text {
+.ultimate-header-text, .raid-header-text {
     text-align: center;
     font-size: 36px;
     font-weight: 900;
@@ -151,8 +151,8 @@ ul {
     display: flex;
     align-self: center;
     border-radius: 25px;
-    align-self: center;
     padding: 3em 2em;
+    white-space: pre-wrap;
 }
 .contact .button {
     align-self: center;
