@@ -131,6 +131,7 @@ ul {
     display: flex;
     justify-content: center;
     margin-bottom: 7em;
+
 }
 
 .hero-container {
@@ -146,7 +147,12 @@ ul {
 }
 .hero-content .hero-text {
     max-width: 600px;
-    padding-top: .3em;
+    padding-top: .5em;
+    padding-left: .5em;
+}
+.hero-content .hero-video {
+    padding-top: 1em;
+    padding-right: .5em;
 }
 .hero-content .button{
     align-self: center;
